@@ -1,7 +1,7 @@
 # admin-scripts
 
-Windows administration and automation scripts, based on real-world
-infrastructure operations work — server patching, health checks, and
+Windows administration and automation scripts, based on real world
+infrastructure operations work server patching, health checks, and
 system monitoring.
 
 ## About
